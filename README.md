@@ -7,6 +7,8 @@ On the same seed trees places will be the same.
 ### How to change seeds? 
 Change "seed" variable to your value.
 
+#### Example
+
 From 
 ```Processing
 int seed = seedGen(100, 1000);
