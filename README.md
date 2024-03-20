@@ -2,7 +2,7 @@
 Perlin Noise Generator with seeds on Processing.
 
 ## Seeds and Trees
-On the same seed trees places will be the same. 
+On the same seed trees locations and textures will be the same. 
 
 ### How to change seeds? 
 Change "seed" variable to your value (sb.pde).
@@ -43,7 +43,7 @@ switch (tree_type) {
     break;
 //Example code
   case 2:
-    image(dark_oaj, wn, hn, treeh, treeh);
+    image(dark_oak, wn, hn, treeh, treeh);
     break;
 }
 ```
