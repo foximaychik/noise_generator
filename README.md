@@ -16,3 +16,13 @@ int seed = 999; //for example
 
 ### How to change trees texture? 
 Add tree texture to the "tree_txr" folder. Then add some strings of code(sb.pde).
+
+- Add "PImage":
+```Processing
+//Original code
+PImage oak;
+PImage sakura;
+//Example code
+PImage dark_oak;
+```
+
