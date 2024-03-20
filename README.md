@@ -7,10 +7,11 @@ On the same seed trees places will be the same.
 ### How to change seeds? 
 Change "seed" variable to your value.
 
-From ```Processing 
+From 
+```Processing
 int seed = seedGen(100, 1000);
 ```
 To
-```Processing 
+```Processing
 int seed = 999; //for example
 ```
