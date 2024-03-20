@@ -29,7 +29,7 @@ PImage dark_oak;
 ```Processing 
 tree_type = (int) random(0, num); 
 ```
-Change "num" to number of your tree + 1.
+Change "num" to number of your tree.
 
 - Add cases to switch:
 ```Processing 
