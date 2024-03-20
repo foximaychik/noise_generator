@@ -5,4 +5,12 @@ Perlin Noise Generator with seeds on Processing.
 On the same seed trees places will be the same. 
 
 ### How to change seeds? 
-You must change the variable "seed" to your value. 
+Change "seed" variable to your value.
+
+From ```Processing 
+int seed = seedGen(100, 1000);
+```
+To
+```Processing 
+int seed = 999; //for example
+```
