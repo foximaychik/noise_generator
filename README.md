@@ -31,5 +31,19 @@ tree_type = (int) random(0, num);
 ```
 Change "num" to number of your tree + 1.
 
-
-
+- Add cases to switch:
+```Processing 
+switch (tree_type) {
+//Original code
+  case 0:
+    image(oak, wn, hn, treeh, treeh);
+    break;
+  case 1:
+    image(sakura, wn, hn, treeh,treeh);
+    break;
+//Example code
+  case 2:
+    image(dark_oaj, wn, hn, treeh, treeh);
+    break;
+}
+```
