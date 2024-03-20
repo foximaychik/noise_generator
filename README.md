@@ -25,4 +25,11 @@ PImage sakura;
 //Example code
 PImage dark_oak;
 ```
+- Change this string:
+```Processing 
+tree_type = (int) random(0, num); 
+```
+Change "num" to number of your tree + 1.
+
+
 
